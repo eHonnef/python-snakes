@@ -6,7 +6,7 @@ So basically a snakes game made in python using tkinter and nothing more.
 ## Requirements and usage
 
 Check `requirements.txt` and install using pip. `pip install -r requirements`.  
-Run `Main.py` to play.  
+Run `Main.py` (not the river) to play.  
 Have fun :).
 
 ## What's missing?
